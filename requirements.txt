@@ -1,0 +1,5 @@
+mariadb==1.1.10
+pydantic==2.6.4
+requests==2.32.2
+pydantic[email]==2.6.4
+python-dotenv==1.0.0
